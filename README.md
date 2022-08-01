@@ -6,6 +6,21 @@ Thee assignment was to create a DataFrame of the ride-sharing data by city type.
 
 ## Results
 
-![PyBer_fare_summary]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![PyBer_fare_summary](https://github.com/Normanfamdamly/PyBer_Analysis/blob/main/Analysis/PyBer_fare_summary.png)
 
 
